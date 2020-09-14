@@ -1,2 +1,2 @@
 # GoBarber
-Um sistema web em javascript para barbearia.
+Um sistema web completo em javascript para barbearias.
